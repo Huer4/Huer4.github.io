@@ -26,3 +26,7 @@ Raw homework prompts, unrelated files, source code with local paths, and CAD sou
 ## CAD library update
 
 The flyer now uses the supplied full-size assembly renders. Its base and valve PDFs are explicitly a partial selection. `cad-library.html` pairs 19 model entries with drawings, including gyroscope, HW8/HW9, HW5/HW6, and flyer parts. Native files are preserved; assembly ZIPs include the accompanying PRT files from their source folders. Cross-file revision consistency has not been independently checked in CAD software.
+
+## Igniter geometry
+
+The igniter page includes the original nozzle DXF and an SVG preview of its LINE/ARC geometry and centerline. DXF INSUNITS=4 indicates millimeters. The Fusion 360 revolve workflow is confirmed by the portfolio owner. The requested engineering-decisions document has not yet been located; that section is deferred.
