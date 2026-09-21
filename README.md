@@ -29,4 +29,4 @@ The flyer now uses the supplied full-size assembly renders. Its base and valve P
 
 ## Igniter geometry
 
-The igniter page includes the original nozzle DXF and an SVG preview of its LINE/ARC geometry and centerline. DXF INSUNITS=4 indicates millimeters. The Fusion 360 revolve workflow is confirmed by the portfolio owner. The requested engineering-decisions document has not yet been located; that section is deferred.
+The igniter page includes the original nozzle DXF and an SVG preview of its LINE/ARC geometry and centerline. DXF INSUNITS=4 indicates millimeters. The Fusion 360 revolve workflow is confirmed by the portfolio owner. Engineering decisions are summarized from pages 1–3 of the owner-supplied SpaceX Engineering Decisions.pdf. Page 4 (2027 responses) is excluded entirely, and the source PDF is not published. Proposed code additions are labeled as future work. Unsupported absolute guarantees in the notes are not repeated as validated facts.
