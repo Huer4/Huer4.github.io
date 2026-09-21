@@ -22,3 +22,7 @@ The six project narratives are based on the supplied Portfolio Stuff folder. Ass
 - TPS sizer: chart transcribed from axial_example_report.txt (the four-station temperature example, not the separate 100-station flux example). Results are explicitly labeled demonstrations.
 
 Raw homework prompts, unrelated files, source code with local paths, and CAD source binaries are not published. Website copy can be updated as higher-resolution flyer renders and verified project results become available.
+
+## CAD library update
+
+The flyer now uses the supplied full-size assembly renders. Its base and valve PDFs are explicitly a partial selection. `cad-library.html` pairs 19 model entries with drawings, including gyroscope, HW8/HW9, HW5/HW6, and flyer parts. Native files are preserved; assembly ZIPs include the accompanying PRT files from their source folders. Cross-file revision consistency has not been independently checked in CAD software.
